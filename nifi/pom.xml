@@ -966,6 +966,7 @@
                         <exclude>src/test/resources/</exclude> <!-- Test datasets -->
                         <exclude>nb-configuration.xml</exclude>
                         <exclude>nbactions.xml</exclude>
+                        <exclude>DEPENDENCIES</exclude>
                     </excludes>
                 </configuration>
             </plugin>
