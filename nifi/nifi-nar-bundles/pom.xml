@@ -40,6 +40,7 @@
 		<module>nifi-geo-bundle</module>
 		<module>nifi-hl7-bundle</module>
 		<module>nifi-language-translation-bundle</module>
+        <module>nifi-flume-bundle</module>
     </modules>
     <dependencyManagement>
         <dependencies>
