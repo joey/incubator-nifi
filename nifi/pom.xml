@@ -789,6 +789,11 @@
                 <artifactId>nifi-geo-nar</artifactId>
                 <version>0.1.0-incubating-SNAPSHOT</version>
                 <type>nar</type>
+            <dependency>
+                <groupId>org.apache.nifi</groupId>
+                <artifactId>nifi-flume-nar</artifactId>
+                <version>0.0.1-incubating-SNAPSHOT</version>
+                <type>nar</type>
             </dependency>
             <dependency>
                 <groupId>org.apache.nifi</groupId>
